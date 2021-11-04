@@ -1,0 +1,22 @@
+.pessoa__imagem {
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  border-radius: 100%;
+  text-align: top;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.pessoa__imagem--home {
+  background-image: url("../../img/pessoas/home-Simpsons.jpg");
+}
+
+.pessoa__imagem--bob {
+  background-image: url("../../img/pessoas/bob-esponja.png");
+}
+
+.pessoa__imagem--madruga {
+  background-image: url("../../img/pessoas/seu-madruga.jpg");
+}
